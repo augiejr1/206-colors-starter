@@ -60,19 +60,22 @@ footer {
 
 @media (min-width: 768px) {
   header {
-    background-color: ;
+    background-color: teal;
   }
 
   #column-1 {
     background-color: black;
+    width: 50%;
   }
 
   #column-2 {
     background-color: beige;
+    width: 100%;
   }
 
   #column-3 {
     background-color: gold;
+    width: 50%;
   }
 
   footer {
@@ -85,19 +88,22 @@ footer {
 /*---------- Desktops ----------*/
 @media (min-width: 1200px) {
   header {
-    background-color: ;
+    background-color:orange;
   }
 
   #column-1 {
     background-color: indigo;
+    width: 33.3%;
   }
 
   #column-2 {
     background-color: lavender;
+    width: 33.3%;
   }
 
   #column-3 {
     background-color: lemonchiffon;
+    width: 33.3%;
   }
 
   footer {
